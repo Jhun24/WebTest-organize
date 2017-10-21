@@ -4,14 +4,18 @@
 
 
 	1995년 넷스케이프 개발
+
 	Netscape Navigator 2.0 브라우저에 최초 탑재
+
 	웹프로그래밍 개념 창시
 
 - 특징
 
 
 	HTML 문서에 내장
+
 	스크립트 언어 (컴파일 필요없음)
+
 	단순하다
 
 
@@ -19,9 +23,13 @@
 
 
 	동적 제어
+
 	입력 & 계산
+
 	브라우저 제어
+
 	서버 통신
+
 	어플리케이션 제작
 
 
@@ -29,8 +37,11 @@
 
 
 	HTML 내장 이벤트 리스터 속성 (onclick이벤트 함수 같은거)
+
 	<script> 태그
+
 	.js 파일
+
 	URL에 작성
 
 
@@ -38,8 +49,11 @@
 
 
 	<head> 태그 안에 (head태그에 쓰면 html class랑 id 못불러옴)
+
 	<body>  태그 안에
+
 	<html> 태그 안이면 사실 어따 넣어도 상관없음 ㅎ 오류는 책임 안짐 ㅎ
+
 	<script src ="js/index.js"></script> 이런식으로 넘
 
 
@@ -52,7 +66,9 @@
 
 
 	alert("hello") = 경고창에 hello라는 말을 띄움
+
 	var data = prompt("hello","") = data라는 변수에 prompt로 입력된 값을 저장
+	
 	var data = dialog("") = yes , no 버튼 있음
 
 
@@ -71,6 +87,7 @@
 > 코어 객체
 
 	언제 어디서나 사용 가능
+
 	표준 객체
 
 
@@ -105,7 +122,9 @@
 
 
 	history : 뒤로가기 그런거
+
 	alert() , prompt() , dialog()
+
 	cookie제어도 가능
 
 
