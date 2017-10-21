@@ -66,9 +66,7 @@
 
 
 	alert("hello") = 경고창에 hello라는 말을 띄움
-
 	var data = prompt("hello","") = data라는 변수에 prompt로 입력된 값을 저장
-
 	var data = dialog("") = yes , no 버튼 있음
 
 
@@ -95,9 +93,7 @@
 
 
 	var arr = new Array();
-
 	var date = new Date();
-
 	var math = new Math();
 
 
@@ -111,7 +107,6 @@
 
 
 	document.getElementById()
-
 	document.write()
 
 
@@ -125,9 +120,7 @@
 
 
 	history : 뒤로가기 그런거
-
 	alert() , prompt() , dialog()
-
 	cookie제어도 가능
 
 
@@ -146,7 +139,6 @@
 	var user = {
 		name : "이장훈"
 	};
-
 	console.log(user.name)
 
 
@@ -168,9 +160,7 @@
 
 
 	var testObject = new Object();
-
 	testObject.name = "이장훈" : property(멤버 변수) 생성
-
 	testObject.printName = function(){
 		console.log(this.name); 
 	} : method(멤버 함수) 생성
@@ -187,16 +177,12 @@
 
 	var objectText = new String("hello");
 	var normalText = "hello"
-
 	objectText.length // o
 	normalText.length // o
-
 	// 어떤걸로 생성하던 String 객체 method 사용가능
-
 	normalText[0] == h
-
 	// []이거 사용해서 접근가능 개꿀 ㅎㅎ
-	
+
 
 > 예제들은 느그들이 알아서하자
 
