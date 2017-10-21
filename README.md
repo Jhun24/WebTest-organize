@@ -2,7 +2,7 @@
 
 - JavaScript
 
-	1995년 넷스케이프 개발
+1995년 넷스케이프 개발
 
 	Netscape Navigator 2.0 브라우저에 최초 탑재
 
