@@ -3,58 +3,59 @@
 - JavaScript
 
 
-	1995년 넷스케이프 개발
+> 1995년 넷스케이프 개발
 
-	Netscape Navigator 2.0 브라우저에 최초 탑재
+> Netscape Navigator 2.0 브라우저에 최초 탑재
 
-	웹프로그래밍 개념 창시
+> 웹프로그래밍 개념 창시
 
 - 특징
 
 
-	HTML 문서에 내장
+> HTML 문서에 내장
 
-	스크립트 언어 (컴파일 필요없음)
+> 스크립트 언어 (컴파일 필요없음)
 
-	단순하다
+> 단순하다
 
 
 - 역할
 
 
-	동적 제어
+> 동적 제어
 
-	입력 & 계산
+> 입력 & 계산
 
-	브라우저 제어
+> 브라우저 제어
 
-	서버 통신
+> 서버 통신
 
-	어플리케이션 제작
+> 어플리케이션 제작
 
 
 - 작성 위치
 
 
-	HTML 내장 이벤트 리스터 속성 (onclick이벤트 함수 같은거)
+> HTML 내장 이벤트 리스터 속성 (onclick이벤트 함수 같은거)
 
-	<script> 태그
+> <script> 태그
 
-	.js 파일
+> .js 파일
 
-	URL에 작성
+> URL에 작성
 
 
 - 작성 방법
 
 
-	<head> 태그 안에 (head태그에 쓰면 html class랑 id 못불러옴)
+> <head> 태그 안에 (head태그에 쓰면 html class랑 id 못불러옴)
 
-	body  태그 안에
+> body  태그 안에
 
-	<html> 태그 안이면 사실 어따 넣어도 상관없음 ㅎ 오류는 책임 안짐 ㅎ
+> <html> 태그 안이면 사실 어따 넣어도 상관없음 ㅎ 오류는 책임 안짐 ㅎ
 
-	script태그에서 	`<script src ="js/index.js"></script> 이런식으로 넘
+> script태그에서 	`<script src ="js/index.js"></script> 이런식으로 넘
+
 
 
 # 코드 작성
