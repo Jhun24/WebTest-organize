@@ -50,11 +50,11 @@
 
 	<head> 태그 안에 (head태그에 쓰면 html class랑 id 못불러옴)
 
-	body>  태그 안에
+	body  태그 안에
 
 	<html> 태그 안이면 사실 어따 넣어도 상관없음 ㅎ 오류는 책임 안짐 ㅎ
 
-	<script src ="js/index.js"></script> 이런식으로 넘
+	script태그에서 	`<script src ="js/index.js"></script> 이런식으로 넘
 
 
 # 코드 작성
