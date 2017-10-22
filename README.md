@@ -3,11 +3,11 @@
 - JavaScript
 
 
-	1995년 넷스케이프 개발
+	1. 1995년 넷스케이프 개발
 
-	Netscape Navigator 2.0 브라우저에 최초 탑재
+	2. Netscape Navigator 2.0 브라우저에 최초 탑재
 
-	웹프로그래밍 개념 창시
+	3. 웹프로그래밍 개념 창시
 
 - 특징
 
