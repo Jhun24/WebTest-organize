@@ -182,10 +182,13 @@
 
 
 	var objectText = new String("hello");
+	
 	var normalText = "hello"
+	
 	objectText.length // o
 	normalText.length // o
 	// 어떤걸로 생성하던 String 객체 method 사용가능
+	
 	normalText[0] == h
 	// []이거 사용해서 접근가능 개꿀 ㅎㅎ
 
